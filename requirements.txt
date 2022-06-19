@@ -1,0 +1,6 @@
+Flask==1.1.2
+pandas==1.2.4
+numpy
+pickle-mixin
+scikit-learn
+Flask_Cors==3.0.10
